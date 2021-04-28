@@ -1,0 +1,33 @@
+.navigation {
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    padding: 20px 0;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: auto;
+    padding-bottom: auto;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navigation__list {
+    padding-left: 20px;
+    list-style-position: inside;
+    display: inline;
+}
+
+.navigation__listIitem {
+    margin: 10px 0;
+    padding-right: 30px;
+    list-style-type: none;
+    word-wrap: break-word;
+    font-size: 18px;
+    display: inline-block;
+}
