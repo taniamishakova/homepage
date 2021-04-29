@@ -1,1 +1,1 @@
-![site preview](demo.gif)
+![site preview](Animation.gif)
