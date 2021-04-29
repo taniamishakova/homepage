@@ -1,4 +1,4 @@
-# Tania Mishakova - autoprezetacja
+# Tania Mishakova - self-presentation
 
 ## General information
 This page was created for the YouCode course, in order to learn and practice the basic skills of HTML, CSS and Javascript.
