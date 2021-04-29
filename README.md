@@ -1,1 +1,1 @@
-![site preview](Animation.gif)
+![site preview](https://github.com/taniamishakova/homepage/blob/main/image/Animation.gif)
